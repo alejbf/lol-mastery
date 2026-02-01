@@ -1,0 +1,10 @@
+:root{
+  --primary-color: #29246a;
+  --secondary-color: #0dc3e1;
+  --gold: #c8aa6e;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
